@@ -255,7 +255,7 @@ project_home_safety_2/
 | [Md. Ishzaz Asif Rafid](https://github.com/EzazAsif)   | Temperature & Humidity (DHT11), OLED Dashboard |
 
 **Faculty:** [Md. Raqibur Rahman (RQN)](https://github.com/AyonRRahman)  
-**Lab Instructor:** Md Abdullah Al Sayed
+**Lab Instructor:** [Md Abdullah Al Sayed](https://www.linkedin.com/in/md-abdullah-al-sayed/)
 
 ---
 
