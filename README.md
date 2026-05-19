@@ -22,7 +22,7 @@
 
 ## Overview
 
-Traditional home safety systems operate independently and cannot respond actively to arising threats. This project bridges that gap by integrating multiple sensors under a single STM32 microcontroller — providing gas leak detection, environmental monitoring, distance-based obstacle detection, IR-based object detection, and password-secured door control, all displayed on a compact OLED dashboard.
+Traditional home safety systems operate independently and cannot respond actively to arising threats. This project bridges that gap by integrating multiple sensors under a single STM32 microcontroller — providing gas leak detection, environmental monitoring, distance-based obstacle detection, IR-based object detection, and password-secured door access, all output displayed on a compact OLED dashboard.
 
 ---
 
@@ -43,6 +43,7 @@ Traditional home safety systems operate independently and cannot respond activel
 - The MQ-2 sensor continuously monitors air quality
 - If gas concentration exceeds **1500 ppm**, the **buzzer activates** and the OLED displays **"GAS ALERT!!"**
 - The alert persists until gas levels drop below the threshold
+- The buzzer will be turned off after the sensor sense gas concentration less than **1500 ppm**
 
 ### IR-Based Object Detection
 - The IR sensor detects nearby objects via infrared reflection
