@@ -249,12 +249,12 @@ project_home_safety_2/
 
 | Name | Contribution |
 |------|--------------|
-| Mohammed Arif Mainuddin | Obstacle Detection (HC-SR04), Password System |
-| Najifa Tabassum         | Servo Motor Door Lock, IR Sensor Detection |
-| Moontaha Rawshan        | Gas Leakage Detection (MQ-2), Password System |
-| Md. Ishzaz Asif Rafid   | Temperature & Humidity (DHT11), OLED Dashboard |
+| [Mohammed Arif Mainuddin](https://github.com/TimeWithPotato) | Obstacle Detection (HC-SR04), Password System |
+| [Najifa Tabassum](https://github.com/najifatabassum01)        | Servo Motor Door Lock, IR Sensor Detection |
+| [Moontaha Rawshan](https://github.com/mrinoye)        | Gas Leakage Detection (MQ-2), Password System |
+| [Md. Ishzaz Asif Rafid](https://github.com/EzazAsif)   | Temperature & Humidity (DHT11), OLED Dashboard |
 
-**Faculty:** Md. Raqibur Rahman (RQN)  
+**Faculty:** [Md. Raqibur Rahman (RQN)](https://github.com/AyonRRahman)  
 **Lab Instructor:** Md Abdullah Al Sayed
 
 ---
